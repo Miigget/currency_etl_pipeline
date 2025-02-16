@@ -1,3 +1,5 @@
 pandas
 requests
 pytest
+python-dotenv
+pytest-mock
